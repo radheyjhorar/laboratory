@@ -1,0 +1,229 @@
+/* .services-bx {
+    width:11% !important;
+   
+}
+.services-bx p {
+    font-size:x-small;
+
+}
+.bg-grey{
+    background-color: rgb(54, 54, 54);
+}
+.adm-opn-img {
+    width: 100%;
+}
+.pding{
+    padding-left: 30%;
+    padding-right:30%;
+}
+.cursive{
+    font-family: ubuntu;
+}
+.fs10{
+    font-size:10px;
+}
+.fs8{
+    font-size: 0.52rem !important;
+}
+.fs9 {
+    font-size: 0.6rem !important;
+}
+.fs7 {
+    font-size: 7px !important;
+}
+.fs12{
+    font-size: 12px !important;
+}
+.imgstyl{
+    width:200pX; 
+    height:110px;
+}
+.mystyle{
+    font-size:12px; 
+    width:47px; 
+    height: fit-content;
+}
+.hdr-mrgn {
+    background-color: #f8f6f6 !important;
+    margin: 0 2.8% !important;
+}
+
+.circle{
+    background-color: #ebd1f8;
+    height:50%;
+    width:60%;
+    border-radius: 50%;
+}
+.bg-primary {
+    background-color: #0b53be !important;
+}
+.fipsw80 {
+    width: 35%;
+    height: 100%;
+}
+.fsiw80 {
+    width: 100%;
+   
+}
+.btn-green{
+    background-color: rgb(22, 215, 135) !important;
+}
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.fs-10px {
+    font-size: 10px !important;
+}
+.fs-50p {
+    font-size: 50% !important;
+}
+a {
+    text-decoration: none !important;
+}
+.h-49px {
+    height: 49px !important;
+}
+.sb-1 {
+    padding: .7rem !important;
+}
+.dropdown:hover {
+    border-radius: 0px 0px 0px 20px !important;;
+}
+.svg-inline--fa {
+    text-align: right!important;
+
+}
+.image {
+    width: 100%;
+    height: 100%;
+}
+.apx-fee {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 500 !important;
+}
+.tp-scl-h {
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+}
+.wdt {
+    width: 21rem;
+    display: inline-block !important;
+    height: 28px;
+    white-space: pre-wrap !important;
+}
+.hftt {
+    width: 134px;
+}
+.hfsd {
+    height: 3rem;
+    width: 14.5rem;
+    white-space: pre-wrap !important;
+}
+.mt0-3 {
+    margin-top: 0.3rem !important;
+}
+.fw-900 {
+    font-weight: 900 !important;
+}
+  /*.dwdt .react-multi-carousel-item--active > div  {
+    width: 100% !important; * /
+}  
+.dwdt .react-multi-carousel-item--active {
+    margin-right: 10px;;
+} */
+.bg-clr {
+    background: linear-gradient(180deg,#644cdb 10%,#5c1fc6 100%);;
+}
+.wdt-20 {
+    width: 20% !important;
+}
+.nvbr {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    height: 4.375rem;
+}
+.sidebar-brand {
+    letter-spacing: .05rem;
+}
+.rotate-n-15 {
+    transform: rotate(-15deg);
+}
+.i-lgh-wnk {
+    font-size: 2rem !important;
+    font-style: normal;
+}
+.first-link {
+    text-decoration: none;
+    letter-spacing: 0.07rem;
+}
+
+a {
+    text-decoration: none !important;
+    background-color: transparent;
+}
+.techo-m-i {
+    font-size: .85rem;
+    margin-right: 0.25rem;
+}
+.fw-500 {
+    font-weight: 500 !important;
+}
+.fs-small {
+    font-size: small !important;
+}
+.fs-0-66 {
+    font-size: 0.66rem;
+}
+.text-light-white {
+    color: #d6d6d6 !important;
+}
+.h-100vw {
+    height: 100vw;
+}
+
+.navbar-nav li:hover {
+    color: #ffffff !important;
+    /* background-color: #fff; */
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) !important;
+}
+.form-control {
+    border-radius: .5rem 0 0 .5rem !important;
+}
+.w-18 {
+    width: 18rem;
+}
+.border-left-primary {
+    border-left: 0.25rem solid #4e73df !important;
+}
+.border-left-success {
+    border-left: 0.25rem solid #1cc88a !important;
+}
+.border-left-info {
+    border-left: 0.25rem solid #36b9cc !important;
+}
+.border-left-warning {
+    border-left: 0.25rem solid #f6c23e !important;
+}
+
+.fs-xs {
+    font-size: x-small !important;
+}
+.progress-sm {
+    height: 0.5rem !important; 
+}
+.fs-0-7 {
+    font-size: 0.7rem;
+}
+
+.text-gray-300 {
+    color: #dddfeb!important;
+}
+.text-gray-800 {
+    color: #5a5c69!important;
+}
